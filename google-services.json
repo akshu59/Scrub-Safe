@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736076196460",
+    "project_id": "health-app-f81d5",
+    "storage_bucket": "health-app-f81d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736076196460:android:0acedea8103505c0800649",
+        "android_client_info": {
+          "package_name": "com.akshu2259.ScrubSafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_0ZKlvfB5PtrJ2ltniQfK-03K6tX5t-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
